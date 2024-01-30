@@ -27,7 +27,7 @@ public class Hesap {
             }
         }
 
-       // int okek = obj1.getA()*obj1.getB()/
+       // int okek = obj1.getA()*obj1.getB() /
 
     }
 }
